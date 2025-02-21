@@ -30,9 +30,4 @@ This repository contains three **graph-based anomaly detection** projects that a
 - **Gradio** – UI framework for interactive analysis  
 - **Pandas & NumPy** – Data processing and analysis  
 
-## **Installation & Usage**  
 
-### **1. Clone the Repository**  
-```bash
-git clone https://github.com/LOKSAI-P/IRMAI_Coding-Challenge-.git
-cd IRMAI_Coding-Challenge-
